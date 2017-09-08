@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+<category name="カテゴリーなし">
+<launchConfiguration bookmark="false" name="Draw"/>
+<launchConfiguration bookmark="false" name="Hello32"/>
+<launchConfiguration bookmark="false" name="Main"/>
+<launchConfiguration bookmark="false" name="T21"/>
+</category>
+</runner>

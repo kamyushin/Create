@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="リソース &apos;java-everyone-eclipse-s&apos; を削除" deleteContents="false" description="リソース &apos;java-everyone-eclipse-s&apos; を削除" element1="/java-everyone-eclipse-s" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1486972813359"/>&#x0A;<refactoring comment="リソース &apos;Dance&apos; を削除" deleteContents="false" description="リソース &apos;Dance&apos; を削除" element1="/Dance" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1487089499997"/>
+</session>
