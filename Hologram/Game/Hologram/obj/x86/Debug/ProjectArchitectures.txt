@@ -1,0 +1,2 @@
+C:\Users\Shimada\Documents\Unity project\Hologram\Game\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Shimada\Documents\Unity project\Hologram\Game\Hologram\Hologram.csproj;x86
