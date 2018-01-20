@@ -1,0 +1,2 @@
+C:\Users\Shimada\Documents\Unity project\Holo\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Shimada\Documents\Unity project\Holo\App\Holo\Holo.csproj;x86
